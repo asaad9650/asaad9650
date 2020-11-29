@@ -15,7 +15,7 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/Express-47A248?logo=express&logoColor=white&style=for-the-badge" />
-    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white&style=for-the-badge" />
+    <img alt="C Sharp" src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" />
 </p>
 <h3>I'm currently working on Instagram clone</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad9650" />
