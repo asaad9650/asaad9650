@@ -1,11 +1,10 @@
 ### Hi there 👋
-<h3>I hope you doing fine</h3>
-<h1>Hey! My name is Muhammad Taimoor. I'm a full stack web developer from Karachi, Pakistan. I do lot of creative stuff.</h1>
+<h1>Hey! My name is Saad Amir. I'm a Professional Flutter and NodeJS Developer from Karachi, Pakistan. I do lot of creative stuff.</h1>
 <hr>
 <h1>What do i do?</h1>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+  <img alt="IOS" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
