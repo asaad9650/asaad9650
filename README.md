@@ -4,7 +4,7 @@
 <h1>What do i do?</h1>
 <p>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-  <img alt="IOS" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
+  <img alt="IOS" src="https://img.shields.io/badge/IOS-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -18,7 +18,7 @@
   <img alt="Express" src="https://img.shields.io/badge/Express-47A248?logo=express&logoColor=white&style=for-the-badge" />
 </p>
 <h3>I'm currently working on Instagram clone</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad9650" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor954" />
 <img src="https://github-readme-stats.vercel.app/api?username=asaad9650" />
 
 <hr>
