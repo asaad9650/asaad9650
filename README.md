@@ -17,8 +17,8 @@
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/Express-47A248?logo=express&logoColor=white&style=for-the-badge" />
 </p>
-<h3>I'm currently working on tourism website clone</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad9650"/>
+<h3>I'm currently working on Instagram clone</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad9650" />
 <img src="https://github-readme-stats.vercel.app/api?username=asaad9650" />
 
 <hr>
