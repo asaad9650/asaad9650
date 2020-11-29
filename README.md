@@ -19,7 +19,7 @@
 </p>
 <h3>I'm currently working on tourism website clone</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad9650" />
-<img src="https://github-readme-stats.vercel.app/api?username=taimoor954" />
+<img src="https://github-readme-stats.vercel.app/api?username=asaad9650" />
 
 <hr>
 <h3>- 📫 How to reach me: ...</h3>
