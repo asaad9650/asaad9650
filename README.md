@@ -3,7 +3,14 @@
 <hr>
 <h1>What do i do?</h1>
 <p>
-  <img alt="Get X"/>
+  
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
+  <img alt="Flutter src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge""/>
 </p>
 <h3>I'm currently working on Instagram clone and Machine Learning</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad9650" />
