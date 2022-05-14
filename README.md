@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hey! My name is Saad Amir. I'm a Professional Flutter and NodeJS Developer from Karachi, Pakistan. I do lot of creative stuff.</h1>
+<h1>Hey! My name is Saad Amir. I'm a Flutter and Python Developer from Karachi, Pakistan. I do lot of creative stuff.</h1>
 <hr>
 <h1>What do i do?</h1>
 <p>
